@@ -1,5 +1,5 @@
 <p>
-  <a href="https://www.npmjs.com/package/debounce" target="_blank">
+  <a href="" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/debounce.svg">
   </a>
 </p>
