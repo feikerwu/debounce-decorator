@@ -4,7 +4,7 @@
  */
 export function debounce(delay: number): Function {
   return (
-    target: Function,
+    target: Object,
     propertyKey: string,
     propertyDesciptor: PropertyDescriptor
   ) => {
